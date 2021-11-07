@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>detection.svg</file>
+    <file>clustering.svg</file>
+    <file>feature_selection.svg</file>
+    <file>open.svg</file>
+    <file>record.svg</file>
+    <file>stop.svg</file>
+    <file>view.svg</file>
+    <file>disconnect.svg</file>
+    <file>connect.svg</file>
+    <file>sorting.svg</file>
+    <file>stimuli.svg</file>
+    <file>icon.svg</file>
+  </qresource>
+  <qresource prefix="icon2">
+    <file>view2.svg</file>
+    <file>stimuli2.svg</file>
+    <file>sorting2.svg</file>
+    <file>disconnect2.svg</file>
+    <file>clustering2.svg</file>
+    <file>stop2.svg</file>
+    <file>open2.svg</file>
+    <file>record2.svg</file>
+    <file>detection2.svg</file>
+    <file>feature_selection2.svg</file>
+    <file>connect2.svg</file>
+  </qresource>
+</RCC>
